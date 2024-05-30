@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #476465;
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: end;
+    margin-left: 1px;
+}
+
+.nav-item a {
+    color: white;
+}
+
+.card-custom {
+    border: 5px solid #476465;
+    border-radius:10px;
+    box-shadow:0 4px 8px #476465;
+}
+.cards-container {
+    margin-top: 20px; /* Üstten boþluk */
+}
+.footer {
+    background-color: #476465;
+}
